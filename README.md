@@ -1,4 +1,4 @@
-# vue-tasks
+# Vue タスクアプリ
 
 ## Project setup
 ```
